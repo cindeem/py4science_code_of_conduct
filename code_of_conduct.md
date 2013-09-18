@@ -1,4 +1,4 @@
-py4science US is a community meeting intended for networking and collaboration in the developer community.
+py4science is a community meeting intended for networking and collaboration in the developer community.
 
 We value the participation of each member of the py4science community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meeting and at all meeting events, whether officially sponsored by py4science or not.
 
